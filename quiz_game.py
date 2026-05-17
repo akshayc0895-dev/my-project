@@ -1,6 +1,6 @@
 print("QUIZ GAME")
-print("Answer 3 Questions")
-print("you need 2 to pass")
+print("Answer 10 Questions")
+print("you need 7 to pass")
 
 score = 0
 
